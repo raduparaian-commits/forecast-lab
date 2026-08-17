@@ -11,3 +11,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Secrets
+.env
+
+# Large files
+/data/raw
+/data/processed
